@@ -1,0 +1,28 @@
+{
+  "name": "TS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^8.28.0",
+    "prettier": "^2.8.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyzym/TS.git"
+  },
+  "keywords": [],
+  "author": "Denis <kyzym1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyzym/TS/issues"
+  },
+  "homepage": "https://github.com/kyzym/TS#readme"
+}
